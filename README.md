@@ -1,3 +1,5 @@
+[![Pixel To Code GitHub Banner](https://github.com/pixel2code/pixel2code/blob/main/assets/GitHubHeader.png)](https://pixeltocode.co)
+
 # GDPR PRIVACY NOTICE
 
 At Pixel To Code we take your privacy seriously and will take as many precautions as possible to protect your personal data. This privacy policy will explain how the Pixel To Code organisation uses the personal data we collect from you when you take part in the course. 
